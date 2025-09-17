@@ -1,4 +1,10 @@
 <?php
+// Author: Anuj Acharya
+// Project: PHP Student Grading System
+// Description: This script calculates student averages, percentages, failed subjects,
+//              and identifies honor roll eligibility using PHP form input, arithmetic,
+//              conditionals, and loops.
+// Date: 2025-09-17
 // Check if the form is submitted
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
